@@ -1,6 +1,6 @@
 # Hi, I'm Raul
 
-I work mostly in country operations, GTM execution, business transformation, and technical-commercial roles.
+I work in country operations, GTM execution, business transformation, and technical-commercial roles.
 
 My background is in electronics, IoT, wireless, embedded systems, industrial automation, and customer-facing technical support.
 
